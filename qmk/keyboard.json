@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Cooper",
+    "manufacturer": "cshapard26",
     "keyboard_name": "4keys",
-    "maintainer": "Cooper",
+    "maintainer": "cshapard26",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
